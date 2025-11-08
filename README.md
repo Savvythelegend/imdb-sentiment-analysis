@@ -6,7 +6,7 @@ Repository layout (production-ready):
 
 - src/             - Python source code (modules/scripts)
 - notebooks/       - Jupyter notebooks (analysis, experiments)
-- data/            - datasets and generated CSVs (not all raw data should be committed)
+- data/            - datasets and generated CSVs
 - requirements.txt - Python dependencies
 
 Quick start
